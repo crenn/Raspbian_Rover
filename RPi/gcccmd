@@ -1,0 +1,1 @@
+gcc -o spitext -I ./bcm2835-1.5/src/ ./bcm2835-1.5/src/bcm2835.c spitest.c
