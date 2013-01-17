@@ -3,10 +3,12 @@ Raspian Rover.
 
 A simple robot
 
-1) I Rasoberry Pi
-2) Maple microcontroller
+1) 1 Raspberry Pi
+2) Leaflabs Maple Mini microcontroller
 3) Small LCD display
 4) Two motors
+5) 8 Ultrasonic sensors
 
-Use case:  Chase the cat using remote control across the Internet
+Use case:  Chase the cat using remote control across the Internet.
+           Cures boredom.
 
